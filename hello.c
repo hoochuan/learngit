@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	int a;
-	a = 2;
+	a = 1;
 	printf("a=%d\n",a);
 	return 0;
 }
